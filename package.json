@@ -1,0 +1,25 @@
+{
+  "name": "hidden-trails-alerts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "trails": "nodenv trails.js"
+  },
+  "keywords": [
+    "sms",
+    "twilio",
+    "bulk-sms"
+  ],
+  "author": "David Lowes",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-env-run": "^2.0.1",
+    "twilio": "^3.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djlowes/hidden-trails-sms-app.git"
+  }
+}
