@@ -4,7 +4,8 @@
   "description": "Automated SMS scheduler/reminder for Hidden Trails Country Club",
   "main": "index.js",
   "scripts": {
-    "trails": "nodenv trails.js"
+    "trails": "node trails.js",
+    "start": "node trails.js"
   },
   "keywords": [
     "sms",
